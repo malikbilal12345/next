@@ -1,0 +1,17 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/destinations-details": "pages/destinations-details.html",
+  "/destinations": "pages/destinations.html",
+  "/home2": "pages/home2.html",
+  "/": "pages/index.html",
+  "/news-details": "pages/news-details.html",
+  "/news": "pages/news.html",
+  "/tour-details": "pages/tour-details.html",
+  "/tours-list": "pages/tours-list.html",
+  "/tours": "pages/tours.html",
+  "/404": "pages/404.html"
+}

@@ -1,0 +1,36 @@
+{
+  "..\\components\\NewsTwo\\NewsTwo.js -> tiny-slider-react": {
+    "id": 72790,
+    "files": [
+      "static/chunks/790.349fa74b4b7f286a.js"
+    ]
+  },
+  "..\\components\\PopularTours\\PopularTours.js -> tiny-slider-react": {
+    "id": 72790,
+    "files": [
+      "static/chunks/790.349fa74b4b7f286a.js"
+    ]
+  },
+  "..\\components\\TestimonialOne\\TestimonialOne.js -> tiny-slider-react": {
+    "id": 72790,
+    "files": [
+      "static/chunks/790.349fa74b4b7f286a.js"
+    ]
+  },
+  "..\\components\\VideoOne\\VideoOne.js -> @/components/Jarallax/Jarallax": {
+    "id": 91975,
+    "files": [
+      "static/chunks/980.724548192864c81b.js",
+      "static/css/6e3b38cd8ef5d615.css",
+      "static/chunks/245.c5e7c7f185f7e5ef.js"
+    ]
+  },
+  "..\\components\\VideoTwo\\VideoTwo.js -> @/components/Jarallax/Jarallax": {
+    "id": 91975,
+    "files": [
+      "static/chunks/980.724548192864c81b.js",
+      "static/css/6e3b38cd8ef5d615.css",
+      "static/chunks/245.c5e7c7f185f7e5ef.js"
+    ]
+  }
+}
